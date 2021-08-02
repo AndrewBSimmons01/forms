@@ -4,7 +4,7 @@ body
     border:lightgrey solid 4 px;
 }
 
-nav
+.nav
 {
     background-color: lightgrey;
     border: lightblue thin solid;
@@ -32,7 +32,7 @@ nav
     height: 300px;
     background-color: whitesmoke;
     margin:auto;
-    width: 50%;
+    width: 35%;
     border-color:blue thin solid;
     padding: 10px;
 }
